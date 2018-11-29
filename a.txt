@@ -1,6 +1,6 @@
 aaaaa
 bbbbb
-ccccc
+ccccc$$$$$$$$$
 12345
-GGGGG
-JJJJJ
+GGGGG---edited by bch01
+JJJJJ---master add master
